@@ -1,7 +1,6 @@
 - 👋 Hi, I’m ROOPA 
 - 👀 I’m interested in building a Webpage by using HTML and CSS.
 - 🌱 I’m currently learning more about css using Bootstrap.
-- 💞️ I’m looking for someone to collaborate with for more web page ideas which helps me in my job search 
 - 📫 you can ping me on linkedln - https://www.linkedin.com/in/roopa-ilavarapu-19306824a
 
 
